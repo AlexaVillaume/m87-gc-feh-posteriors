@@ -1,11 +1,20 @@
 # m87-gc-feh-posteriors
 
+## What is this and how to use?
+
+These are the full iron metallicity [Fe/H] posteriors for a sample of globular clusters (GCs) around M87 (NGC 4486). Each column is the posterior for
+a GC and the column label is the ID for the GC. 
+
+These files are large. If you want a more manageable file and do not need the posteriors, a machine-readable table of the summary statistics
+are included with the Villaume et al. (2020) paper.
+
 ## Attribution
 
 Please cite Villaume et al. 2019, 2020 if you use these metallicity measurements in your research. The BibTex entries for the papers are:
 
 
-```@ARTICLE{2019ApJ...879...45V,
+```
+@ARTICLE{2019ApJ...879...45V,
        author = {{Villaume}, Alexa and {Romanowsky}, Aaron J. and {Brodie}, Jean and
          {Strader}, Jay},
         title = "{New Constraints on Early-type Galaxy Assembly from Spectroscopic Metallicities of Globular Clusters in M87}",
