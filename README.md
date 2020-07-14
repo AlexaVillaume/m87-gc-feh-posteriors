@@ -1,5 +1,8 @@
 # m87-gc-feh-posteriors
 
+[![DOI](https://zenodo.org/badge/174044109.svg)](https://zenodo.org/badge/latestdoi/174044109)
+
+
 ## What is this and how to use?
 
 These are the full iron metallicity [Fe/H] posteriors for a sample of globular clusters (GCs) around M87 (NGC 4486). Each column is the posterior for
